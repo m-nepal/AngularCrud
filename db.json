@@ -1,0 +1,38 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "name": "Mary",
+      "gender": "Female",
+      "contactPreference": "Phone",
+      "phoneNumber": 2345978640,
+      "dateOfBirth": "1979/11/20",
+      "department": "2",
+      "isActive": true,
+      "photoPath": "./src/assets/images/mary.png"
+    },
+    {
+      "id": 3,
+      "name": "John",
+      "gender": "Male",
+      "contactPreference": "Phone",
+      "phoneNumber": 5432978640,
+      "dateOfBirth": "1976/3/25",
+      "department": "3",
+      "isActive": false,
+      "photoPath": "./src/assets/images/john.png"
+    },
+    {
+      "id": 4,
+      "name": "Mohan1",
+      "gender": "Male",
+      "email": "mohan1@gmail.com",
+      "phoneNumber": "8198911",
+      "contactPreference": "Phone",
+      "dateOfBirth": "2018-09-12T17:17:34.000Z",
+      "department": "3",
+      "isActive": true,
+      "photoPath": "./src/assets/images/mark.png"
+    }
+  ]
+}
